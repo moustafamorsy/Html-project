@@ -1,0 +1,83 @@
+body {
+  color: black;
+  font-family: "roboto", sans-serif;
+}
+
+.m-nav {
+  list-style-type: none;
+
+  display: inline-block;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+}
+.navv {
+  list-style: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+.navv li {
+  padding: 10px;
+}
+.navv li a {
+  text-align: center;
+  padding: 10px;
+  width: 80px;
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+.navv li:hover {
+  background-color: grey;
+}
+
+.navv li {
+  float: left;
+}
+
+.hero {
+  text-align: center;
+}
+
+#work {
+  text-align: center;
+}
+#contact {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.right {
+  text-align: center;
+}
+
+.social {
+  margin-left: 75%;
+}
+
+h2 {
+  color: brown;
+}
+h3 {
+  color: rgb(94, 40, 40);
+  font-weight: bolder;
+}
+.m-nav a {
+  color: black;
+}
+
+strong {
+  color: rgb(151, 29, 29);
+}
+
+b {
+  color: rgb(163, 163, 79);
+  font-size: 24px;
+}
